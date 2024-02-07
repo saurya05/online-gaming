@@ -1,2 +1,1 @@
-# online-gaming
-a project on python
+ a console-based game in C++
